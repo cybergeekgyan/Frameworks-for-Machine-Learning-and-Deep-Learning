@@ -7,7 +7,9 @@
 - [TensorFlow]()
 - [Scikit-Learn]()
 - [Keras]()
-- [PyTorch]()
+- [PyTorch](https://pytorch.org)
 - [Theano]()
+- [MLlib](https://spark.apache.org/mllib/)
+  - MLlib is Apache Spark's scalable machine learning library.
 - [Matlab]()
 - [Deeplearning4j-DL4J]()
